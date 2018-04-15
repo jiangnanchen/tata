@@ -1,23 +1,22 @@
- {
-    "proList": [
-        {
- "logo":"https://github.com/jiangnanchen/tata/blob/master/images/14.png?raw=true",
-            "title": "静夜思   --李白",
-            "desc": "床前明月光，疑是地上霜,举头望明月，低头思故乡。"},
-        {
- "logo":"https://github.com/jiangnanchen/tata/blob/master/images/14.png?raw=true",
-            "title": "静夜思   --李白",
-            "desc": "床前明月光，疑是地上霜,举头望明月，低头思故乡。" },
-        {
- "logo":"https://github.com/jiangnanchen/tata/blob/master/images/14.png?raw=true",
-            "title": "静夜思   --李白",
-            "desc": "床前明月光，疑是地上霜,举头望明月，低头思故乡。"},
-        {
- "logo":"https://github.com/jiangnanchen/tata/blob/master/images/14.png?raw=true",
-            "title": "静夜思   --李白",
-            "desc": "床前明月光，疑是地上霜,举头望明月，低头思故乡。"
-        }
-    ]
-}
-   
- 
+[
+    {
+        "logo": "https://github.com/jiangnanchen/tata/blob/master/images/14.png?raw=true",
+        "title": "静夜思   --李白",
+        "desc": "床前明月光，疑是地上霜,举头望明月，低头思故乡。"
+    },
+    {
+        "logo": "https://github.com/jiangnanchen/tata/blob/master/images/14.png?raw=true",
+        "title": "静夜思   --李白",
+        "desc": "床前明月光，疑是地上霜,举头望明月，低头思故乡。"
+    },
+    {
+        "logo": "https://github.com/jiangnanchen/tata/blob/master/images/14.png?raw=true",
+        "title": "静夜思   --李白",
+        "desc": "床前明月光，疑是地上霜,举头望明月，低头思故乡。"
+    },
+    {
+        "logo": "https://github.com/jiangnanchen/tata/blob/master/images/14.png?raw=true",
+        "title": "静夜思   --李白",
+        "desc": "床前明月光，疑是地上霜,举头望明月，低头思故乡。"
+    }
+]
